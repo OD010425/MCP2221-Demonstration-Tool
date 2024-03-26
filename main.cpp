@@ -1,4 +1,4 @@
-// MCP2221 Demonstration Utility
+// MCP2221 Demonstration Tool
 
 #include "mainwindow.h"
 #include <QApplication>
