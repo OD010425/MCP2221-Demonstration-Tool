@@ -1,5 +1,5 @@
-# MCP2221-Demonstration-Utility
-A demonstration utility for the MCP2221 USB to UART/I2C bridge peripherals. This tool is developed in C++ using Qt framework and MCP2221 DLL v2 from Microchip Technologies.
+# MCP2221 Demonstration Tool
+A demonstration tool for the MCP2221 USB to UART/I2C bridge peripherals. This tool is developed in C++ using Qt framework and MCP2221 DLL v2 from Microchip Technologies.
 In this tool you can:
 - Configure the GPIO pins (GP0 to GP3) as input, output, analog input, or analog output.
 - Plot data captured from analog input pins.
