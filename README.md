@@ -5,6 +5,7 @@ In this tool you can:
 - Plot data captured from analog input pins.
 - Send and receive data from the UART.
 - Scan the I2C bus to display any connected devices. Make sure the pull-up resistors are connected to the SDA and SCL pins.
+- 
 **Minimum requirements:**
   - Qt framework v6 or higher.
   - MCP2221 DLL v2 from Microchip Technologies.
